@@ -1,5 +1,5 @@
 {
-  "name": "many-level",
+  "name": "@nxtedition/many-level",
   "version": "1.0.1",
   "description": "Share an abstract-level database over the network or other kind of stream",
   "author": "Mathias Buus (@mafintosh)",
