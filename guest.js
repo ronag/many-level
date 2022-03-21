@@ -1,12 +1,7 @@
 'use strict'
 
 const { AbstractLevel, AbstractIterator } = require('abstract-level')
-<<<<<<< HEAD
-const eos = require('end-of-stream')
 const lpstream = require('./lp-stream')
-=======
-const lpstream = require('length-prefixed-stream')
->>>>>>> core-stream
 const ModuleError = require('module-error')
 const { input, output } = require('./tags')
 const { Duplex, pipeline, finished } = require('stream')
